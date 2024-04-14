@@ -8,3 +8,12 @@ body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
+
+header{ 
+    border-bottom: 1px solid grey; 
+}
+
+footer {
+    border-top: 1px solid grey; 
+}
+
